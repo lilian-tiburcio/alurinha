@@ -5,6 +5,6 @@
 
 <p>Projeto desenvolvido no curso Formação Front-End da Alura.
 
-O projeto tem como objetivo desenvovler as habilidades em HTM,CSS,Flex-Box e JS</p>
+O projeto tem como objetivo desenvovler as habilidades em HTML,CSS,Flex-Box e JS</p>
 
 
