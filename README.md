@@ -1,6 +1,5 @@
 <h1 align="center">Alurinha</h1>
 
-IMAGEM
 
 <h2>Descrição do Projeto</h2>
 
