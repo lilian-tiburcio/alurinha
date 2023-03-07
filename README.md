@@ -7,6 +7,6 @@
 
 <h2> :dart: Objetivo</h2>
 
-<p> O projeto tem como objetivo integrar a linguagem JavaScript, e entender melhor seu funcionamento an construção de páginas Web. Aqui também utilizamos HTML e CSS.</p>
+<p> O projeto tem como objetivo integrar a linguagem JavaScript, e entender melhor seu funcionamento na construção de páginas Web. Também utilizamos HTML e CSS.</p>
 
 
